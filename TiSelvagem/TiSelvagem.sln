@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI.Dos", "UI.Dos\UI.Dos.csproj", "{4B000F2E-F16F-40D9-ABA9-9D6C90D6E757}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiSelvagem.RepositorioADO", "TiSelvagem.Repositorio\TiSelvagem.RepositorioADO.csproj", "{FF3AEF5D-A523-4511-8E22-F5500944F0F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiSelvagem.Dominio", "TiSelvagem.Dominio\TiSelvagem.Dominio.csproj", "{5CB590D5-D1EF-4D89-8197-E62430998EF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiSelvagem.Aplicacao", "TiSelvagem.Aplicacao\TiSelvagem.Aplicacao.csproj", "{484DE02B-DF0A-4799-95DB-1487F1EAB3CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiSelvagem.UI.Web", "TiSelvagem.UI.Web\TiSelvagem.UI.Web.csproj", "{46C14E8A-5AC9-486C-A60D-DEAC6EB4D8EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiSelvagem.RepositorioEF", "TiSelvagem.RepositorioEF\TiSelvagem.RepositorioEF.csproj", "{1F895798-9E52-4FCC-B18F-B63A0DEB70D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B000F2E-F16F-40D9-ABA9-9D6C90D6E757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B000F2E-F16F-40D9-ABA9-9D6C90D6E757}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B000F2E-F16F-40D9-ABA9-9D6C90D6E757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B000F2E-F16F-40D9-ABA9-9D6C90D6E757}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF3AEF5D-A523-4511-8E22-F5500944F0F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF3AEF5D-A523-4511-8E22-F5500944F0F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF3AEF5D-A523-4511-8E22-F5500944F0F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF3AEF5D-A523-4511-8E22-F5500944F0F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CB590D5-D1EF-4D89-8197-E62430998EF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CB590D5-D1EF-4D89-8197-E62430998EF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CB590D5-D1EF-4D89-8197-E62430998EF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CB590D5-D1EF-4D89-8197-E62430998EF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{484DE02B-DF0A-4799-95DB-1487F1EAB3CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{484DE02B-DF0A-4799-95DB-1487F1EAB3CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{484DE02B-DF0A-4799-95DB-1487F1EAB3CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{484DE02B-DF0A-4799-95DB-1487F1EAB3CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46C14E8A-5AC9-486C-A60D-DEAC6EB4D8EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46C14E8A-5AC9-486C-A60D-DEAC6EB4D8EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46C14E8A-5AC9-486C-A60D-DEAC6EB4D8EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46C14E8A-5AC9-486C-A60D-DEAC6EB4D8EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F895798-9E52-4FCC-B18F-B63A0DEB70D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F895798-9E52-4FCC-B18F-B63A0DEB70D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F895798-9E52-4FCC-B18F-B63A0DEB70D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F895798-9E52-4FCC-B18F-B63A0DEB70D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

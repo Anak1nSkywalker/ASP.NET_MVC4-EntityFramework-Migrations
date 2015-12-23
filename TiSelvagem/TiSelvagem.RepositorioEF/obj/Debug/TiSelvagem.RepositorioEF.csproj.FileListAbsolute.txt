@@ -1,0 +1,12 @@
+C:\Users\John\documents\visual studio 2012\Projects\TiSelvagem\TiSelvagem.RepositorioEF\bin\Debug\TiSelvagem.RepositorioEF.dll
+C:\Users\John\documents\visual studio 2012\Projects\TiSelvagem\TiSelvagem.RepositorioEF\bin\Debug\TiSelvagem.RepositorioEF.pdb
+C:\Users\John\documents\visual studio 2012\Projects\TiSelvagem\TiSelvagem.RepositorioEF\obj\Debug\TiSelvagem.RepositorioEF.csprojResolveAssemblyReference.cache
+C:\Users\John\documents\visual studio 2012\Projects\TiSelvagem\TiSelvagem.RepositorioEF\obj\Debug\TiSelvagem.RepositorioEF.dll
+C:\Users\John\documents\visual studio 2012\Projects\TiSelvagem\TiSelvagem.RepositorioEF\obj\Debug\TiSelvagem.RepositorioEF.pdb
+C:\Users\John\documents\visual studio 2012\Projects\TiSelvagem\TiSelvagem.RepositorioEF\bin\Debug\TiSelvagem.RepositorioEF.dll.config
+C:\Users\John\documents\visual studio 2012\Projects\TiSelvagem\TiSelvagem.RepositorioEF\bin\Debug\EntityFramework.dll
+C:\Users\John\documents\visual studio 2012\Projects\TiSelvagem\TiSelvagem.RepositorioEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\John\documents\visual studio 2012\Projects\TiSelvagem\TiSelvagem.RepositorioEF\bin\Debug\EntityFramework.xml
+C:\Users\John\documents\visual studio 2012\Projects\TiSelvagem\TiSelvagem.RepositorioEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\John\documents\visual studio 2012\Projects\TiSelvagem\TiSelvagem.RepositorioEF\bin\Debug\TiSelvagem.Dominio.dll
+C:\Users\John\documents\visual studio 2012\Projects\TiSelvagem\TiSelvagem.RepositorioEF\bin\Debug\TiSelvagem.Dominio.pdb

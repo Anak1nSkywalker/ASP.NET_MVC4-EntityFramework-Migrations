@@ -1,0 +1,14 @@
+C:\Users\John\documents\visual studio 2012\Projects\EntityFramework\EntityFramework\Aplicacao\obj\Debug\Aplicacao.csprojResolveAssemblyReference.cache
+C:\Users\John\documents\visual studio 2012\Projects\EntityFramework\EntityFramework\Aplicacao\bin\Debug\Aplicacao.dll.config
+C:\Users\John\documents\visual studio 2012\Projects\EntityFramework\EntityFramework\Aplicacao\bin\Debug\Aplicacao.dll
+C:\Users\John\documents\visual studio 2012\Projects\EntityFramework\EntityFramework\Aplicacao\bin\Debug\Aplicacao.pdb
+C:\Users\John\documents\visual studio 2012\Projects\EntityFramework\EntityFramework\Aplicacao\bin\Debug\Dominio.dll
+C:\Users\John\documents\visual studio 2012\Projects\EntityFramework\EntityFramework\Aplicacao\bin\Debug\EntityFramework.dll
+C:\Users\John\documents\visual studio 2012\Projects\EntityFramework\EntityFramework\Aplicacao\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\John\documents\visual studio 2012\Projects\EntityFramework\EntityFramework\Aplicacao\bin\Debug\Repositorio.dll
+C:\Users\John\documents\visual studio 2012\Projects\EntityFramework\EntityFramework\Aplicacao\bin\Debug\Dominio.pdb
+C:\Users\John\documents\visual studio 2012\Projects\EntityFramework\EntityFramework\Aplicacao\bin\Debug\Repositorio.pdb
+C:\Users\John\documents\visual studio 2012\Projects\EntityFramework\EntityFramework\Aplicacao\bin\Debug\EntityFramework.xml
+C:\Users\John\documents\visual studio 2012\Projects\EntityFramework\EntityFramework\Aplicacao\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\John\documents\visual studio 2012\Projects\EntityFramework\EntityFramework\Aplicacao\obj\Debug\Aplicacao.dll
+C:\Users\John\documents\visual studio 2012\Projects\EntityFramework\EntityFramework\Aplicacao\obj\Debug\Aplicacao.pdb

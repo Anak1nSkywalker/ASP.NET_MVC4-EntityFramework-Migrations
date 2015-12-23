@@ -1,0 +1,39 @@
+﻿@model PostGetMVC.Models.Pessoa
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+
+@using(Html.BeginForm("Lista", "Home", FormMethod.Post))
+{
+    <fieldset>
+        <legend>Pessoa</legend>
+        <div>
+            @Html.LabelFor(x=>x.PessoaId)
+        </div>
+        <div>
+            @Html.EditorFor(x=>x.PessoaId)
+        </div>
+
+        <div>
+            @Html.LabelFor(x=>x.Nome)
+        </div>
+        <div>
+            @Html.EditorFor(x=>x.Nome)
+        </div>
+
+        <div>
+            @Html.LabelFor(x=>x.Twitter)
+        </div>
+        <div>
+            @Html.EditorFor(x=>x.Twitter)
+        </div>
+
+        <div>
+            <input type="submit" value="Enviar" name="enviar" id="enviar" />
+        </div>
+            
+    </fieldset>
+}

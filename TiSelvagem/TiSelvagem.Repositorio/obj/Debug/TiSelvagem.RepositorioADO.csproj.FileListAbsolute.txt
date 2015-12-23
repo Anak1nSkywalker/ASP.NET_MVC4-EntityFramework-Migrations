@@ -1,0 +1,7 @@
+C:\Users\John\Documents\Visual Studio 2012\Projects\TiSelvagem\TiSelvagem.Repositorio\obj\Debug\TiSelvagem.RepositorioADO.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2012\Projects\TiSelvagem\TiSelvagem.Repositorio\obj\Debug\TiSelvagem.Repositorio.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\TiSelvagem\TiSelvagem.Repositorio\obj\Debug\TiSelvagem.Repositorio.pdb
+C:\Users\John\Documents\Visual Studio 2012\Projects\TiSelvagem\TiSelvagem.Repositorio\bin\Debug\TiSelvagem.Repositorio.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\TiSelvagem\TiSelvagem.Repositorio\bin\Debug\TiSelvagem.Repositorio.pdb
+C:\Users\John\Documents\Visual Studio 2012\Projects\TiSelvagem\TiSelvagem.Repositorio\bin\Debug\TiSelvagem.Dominio.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\TiSelvagem\TiSelvagem.Repositorio\bin\Debug\TiSelvagem.Dominio.pdb

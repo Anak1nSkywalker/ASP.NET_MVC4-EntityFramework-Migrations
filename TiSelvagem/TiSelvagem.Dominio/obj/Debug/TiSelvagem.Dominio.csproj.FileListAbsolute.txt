@@ -1,0 +1,5 @@
+C:\Users\John\documents\visual studio 2012\Projects\TiSelvagem\TiSelvagem.Dominio\bin\Debug\TiSelvagem.Dominio.dll
+C:\Users\John\documents\visual studio 2012\Projects\TiSelvagem\TiSelvagem.Dominio\bin\Debug\TiSelvagem.Dominio.pdb
+C:\Users\John\documents\visual studio 2012\Projects\TiSelvagem\TiSelvagem.Dominio\obj\Debug\TiSelvagem.Dominio.dll
+C:\Users\John\documents\visual studio 2012\Projects\TiSelvagem\TiSelvagem.Dominio\obj\Debug\TiSelvagem.Dominio.pdb
+C:\Users\John\documents\visual studio 2012\Projects\TiSelvagem\TiSelvagem.Dominio\obj\Debug\TiSelvagem.Dominio.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\John\documents\visual studio 2012\Projects\EntityFramework\EntityFramework\Dominio\bin\Debug\Dominio.dll
+C:\Users\John\documents\visual studio 2012\Projects\EntityFramework\EntityFramework\Dominio\bin\Debug\Dominio.pdb
+C:\Users\John\documents\visual studio 2012\Projects\EntityFramework\EntityFramework\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\John\documents\visual studio 2012\Projects\EntityFramework\EntityFramework\Dominio\obj\Debug\Dominio.dll
+C:\Users\John\documents\visual studio 2012\Projects\EntityFramework\EntityFramework\Dominio\obj\Debug\Dominio.pdb

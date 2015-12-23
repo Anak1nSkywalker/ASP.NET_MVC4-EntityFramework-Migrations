@@ -1,0 +1,16 @@
+c:\users\john\documents\visual studio 2012\Projects\TiSelvagem\UI.Dos\bin\Debug\UI.Dos.exe.config
+c:\users\john\documents\visual studio 2012\Projects\TiSelvagem\UI.Dos\bin\Debug\UI.Dos.exe
+c:\users\john\documents\visual studio 2012\Projects\TiSelvagem\UI.Dos\bin\Debug\UI.Dos.pdb
+c:\users\john\documents\visual studio 2012\Projects\TiSelvagem\UI.Dos\obj\Debug\UI.Dos.exe
+c:\users\john\documents\visual studio 2012\Projects\TiSelvagem\UI.Dos\obj\Debug\UI.Dos.pdb
+C:\Users\John\documents\visual studio 2012\Projects\TiSelvagem\UI.Dos\obj\Debug\UI.Dos.csprojResolveAssemblyReference.cache
+C:\Users\John\documents\visual studio 2012\Projects\TiSelvagem\UI.Dos\bin\Debug\TiSelvagem.Repositorio.dll
+C:\Users\John\documents\visual studio 2012\Projects\TiSelvagem\UI.Dos\bin\Debug\TiSelvagem.Repositorio.pdb
+C:\Users\John\documents\visual studio 2012\Projects\TiSelvagem\UI.Dos\bin\Debug\TiSelvagem.Dominio.dll
+C:\Users\John\documents\visual studio 2012\Projects\TiSelvagem\UI.Dos\bin\Debug\TiSelvagem.Dominio.pdb
+C:\Users\John\documents\visual studio 2012\Projects\TiSelvagem\UI.Dos\bin\Debug\TiSelvagem.Aplicacao.dll
+C:\Users\John\documents\visual studio 2012\Projects\TiSelvagem\UI.Dos\bin\Debug\TiSelvagem.Aplicacao.pdb
+C:\Users\John\documents\visual studio 2012\Projects\TiSelvagem\UI.Dos\bin\Debug\TiSelvagem.RepositorioEF.dll
+C:\Users\John\documents\visual studio 2012\Projects\TiSelvagem\UI.Dos\bin\Debug\EntityFramework.dll
+C:\Users\John\documents\visual studio 2012\Projects\TiSelvagem\UI.Dos\bin\Debug\TiSelvagem.RepositorioEF.pdb
+C:\Users\John\documents\visual studio 2012\Projects\TiSelvagem\UI.Dos\bin\Debug\EntityFramework.xml
